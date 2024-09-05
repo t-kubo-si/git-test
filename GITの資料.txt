@@ -1,0 +1,7 @@
+git init
+git config --grobal user.name "t-kubo-si"
+git counfig user.name
+git clone XXXX
+git add
+git commit -m "  "
+git commit -v
